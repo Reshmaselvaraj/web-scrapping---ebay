@@ -7,6 +7,7 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+This project contains a set of scripts used to scrape Ebay's products
 
 
 ## :bulb: Motivation and Context
