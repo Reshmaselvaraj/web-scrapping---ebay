@@ -22,10 +22,13 @@ this project is used to scrape a particular product from ebay based on the mode 
 
 
 
-![Animation](https://user-images.githubusercontent.com/64559017/118860009-818f8980-b8f8-11eb-9ad0-85802db663fd.gif)
+
+
+
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-![Capture](https://user-images.githubusercontent.com/64559017/118857222-6ec78580-b8f5-11eb-9e1f-2a4991169592.PNG)
+![Animation](https://user-images.githubusercontent.com/64559017/118860009-818f8980-b8f8-11eb-9ad0-85802db663fd.gif)
+
+
 
 
 
